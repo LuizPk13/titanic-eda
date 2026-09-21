@@ -1,0 +1,3 @@
+# Ignora arquivos específicos
+.env
+.ipynb_checkpoints/
